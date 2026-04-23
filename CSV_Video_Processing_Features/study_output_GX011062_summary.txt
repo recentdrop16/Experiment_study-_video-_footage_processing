@@ -1,0 +1,22 @@
+Study Video Analysis Summary
+============================
+
+video_duration_seconds: 155.26
+total_frames: 4653
+fps: 29.97
+total_blinks: 30
+blink_rate_per_second: 0.19323
+blink_rate_per_minute: 11.59
+estimated_total_blinks: 30.0
+
+Average Measurements:
+left_eye_width: 2.69 cm
+left_eye_height: 0.618 cm
+right_eye_width: 2.655 cm
+right_eye_height: 0.676 cm
+face_width: 13.253 cm
+face_height: 14.48 cm
+nose_width: 4.329 cm
+nose_height: 3.908 cm
+mouth_width: 4.844 cm
+mouth_height: 0.028 cm
